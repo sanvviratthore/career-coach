@@ -1,6 +1,6 @@
 # Career Coach App
 
-**Career Coach** is a multi-feature, intelligent career coaching web app built using **Streamlit** and powered by **Microsoft Azure AI services**. It helps students and early professionals bridge the gap between their academic profile and real-world job market expectations. The name reflects the clarity the app aims to provide—clear guidance with no grey areas.
+**Career Coach** is a multi-feature, intelligent career coaching web app built using **Streamlit** and powered by **Microsoft Azure AI services**. It helps students and early professionals bridge the gap between their academic profile and real-world job market expectations. The name reflects the clarity the app aims to provide clear guidance with no grey areas.
 
 ## Features
 

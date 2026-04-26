@@ -16,7 +16,7 @@
 
 ### Course Recommendations
 - Users enter any keyword (e.g., "Flutter", "Cybersecurity")
-- Uses a deployed **Azure Machine Learning model** to fetch top 10 relevant courses
+- Uses **Azure OpenAI** to fetch top 10 relevant courses
 - Provides direct links to upskill immediately
 
 ### Career Path Explorer

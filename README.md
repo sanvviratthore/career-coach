@@ -51,7 +51,6 @@
 - **Azure OpenAI**: Powers personalized content (career paths, mock interviews, skill builder)
 - **Azure Document Intelligence**: Parses resumes and extracts structured data
 - **Azure Maps**: Displays career POIs and job location insights
-- **Azure Machine Learning**: Suggests courses based on input keywords
 
 All credentials are managed securely using `.streamlit/secrets.toml` (excluded via `.gitignore`).
 
